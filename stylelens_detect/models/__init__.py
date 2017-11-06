@@ -19,3 +19,5 @@ from .box_object import BoxObject
 from .boxes_array import BoxesArray
 from .detect_objects_response import DetectObjectsResponse
 from .detect_objects_response_data import DetectObjectsResponseData
+from .image import Image
+from .images_array import ImagesArray

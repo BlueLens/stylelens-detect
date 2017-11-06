@@ -19,6 +19,8 @@ from .models.box_object import BoxObject
 from .models.boxes_array import BoxesArray
 from .models.detect_objects_response import DetectObjectsResponse
 from .models.detect_objects_response_data import DetectObjectsResponseData
+from .models.image import Image
+from .models.images_array import ImagesArray
 
 # import apis into sdk package
 from .apis.detect_api import DetectApi

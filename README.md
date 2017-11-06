@@ -79,6 +79,8 @@ Class | Method | HTTP request | Description
  - [BoxesArray](docs/BoxesArray.md)
  - [DetectObjectsResponse](docs/DetectObjectsResponse.md)
  - [DetectObjectsResponseData](docs/DetectObjectsResponseData.md)
+ - [Image](docs/Image.md)
+ - [ImagesArray](docs/ImagesArray.md)
 
 
 ## Documentation For Authorization
