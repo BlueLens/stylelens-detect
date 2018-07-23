@@ -9,7 +9,7 @@ import sys
 from setuptools import setup, find_packages
 
 NAME = "stylelens-detect"
-VERSION = "1.0.2"
+VERSION = "1.0.4"
 # To install the library, run the following
 #
 # python setup.py install
